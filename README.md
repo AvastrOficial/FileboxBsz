@@ -48,4 +48,4 @@ En resumen, este código maneja la carga de archivos, el almacenamiento de enlac
 # utilizanndo un esta pagina para poder agregar archivos temporales
 https://file.io
 ## Utiliza la pagina funcional a qui :
-https://archivador.foroactivo.com/	
+https://fileboxbsz.foroactivo.com
