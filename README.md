@@ -2,7 +2,7 @@
 
 Este código realiza varias funciones relacionadas con la gestión de archivos y el almacenamiento local de enlaces relacionados con esos archivos. Aquí está una descripción de lo que hace cada parte del código:
 
-![image](https://github.com/AvastrOficial/Archivador-BSZ/assets/91764815/d83a1ab8-42df-4369-b73d-5d2c731de4f4)
+![image](https://github.com/AvastrOficial/FileboxBsz/assets/91764815/67ca9247-81ed-45cd-82b1-b88ae568a0e8)
 
 
 # Definición de variables:
