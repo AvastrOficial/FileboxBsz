@@ -1,4 +1,4 @@
-# Archivador-BSZ
+# FileBoxBsz
 
 Este código realiza varias funciones relacionadas con la gestión de archivos y el almacenamiento local de enlaces relacionados con esos archivos. Aquí está una descripción de lo que hace cada parte del código:
 
