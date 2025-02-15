@@ -45,6 +45,8 @@ Muestra u oculta un menú desplegable al hacer clic en algún elemento que dispa
 La clase .show-menu se añade o se elimina para mostrar u ocultar el menú respectivamente.
 En resumen, este código maneja la carga de archivos, el almacenamiento de enlaces relacionados en el almacenamiento local del navegador, y muestra esos enlaces en el documento HTML. También proporciona la funcionalidad para mostrar u ocultar un menú desplegable.
 
+![image](https://github.com/user-attachments/assets/a78b54c5-470d-41b3-ae5e-8d3614991fd3)
+
 # utilizanndo un esta pagina para poder agregar archivos temporales
 https://file.io
 ## Utiliza la pagina funcional a qui :
